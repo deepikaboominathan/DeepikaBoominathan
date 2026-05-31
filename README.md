@@ -152,7 +152,7 @@ class DeepikaBoominathan:
 
 | Project | Stack | Highlights |
 |---|---|---|
-| [**NEXgen Creator — LinkedIn Automation**](https://github.com/deepikaboominathan) | Python · OpenAI · n8n · JS/TS · TailwindCSS | End-to-end automated LinkedIn posting: AI topic → AI image → auto-publish via web app. Built solo & fully production-deployed. |
+| [**NEXgen Creator — LinkedIn Automation**](https://github.com/deepikaboominathan) | Python · OpenAI · React · JS/TS · TailwindCSS | End-to-end automated LinkedIn posting: AI topic → AI image → auto-publish via web app. Built solo & fully production-deployed. |
 | [**Email Automation CRM**](https://github.com/deepikaboominathan) | Python · n8n · REST APIs | Automated email workflows for CRM: untouched leads + daily follow-up campaigns with smart sequencing. |
 | [**RAG-Based Q&A Chatbot**](https://github.com/deepikaboominathan) | HuggingFace · FAISS · Streamlit | Intelligent chatbot using RAG with document chunking and semantic retrieval for context-aware answers. |
 | [**Tamil Movie Recommender**](https://github.com/deepikaboominathan) | ML · Cosine Similarity · Streamlit | Content-based recommender with OTT links; personalized Tamil movie suggestions via interactive web app. |

@@ -1,14 +1,18 @@
 <div align="center">
 
 <!-- ══════════════════════════════════════════════════════════ -->
-<!--  HERO BANNER                                              -->
+<!--  HERO — TOP WAVE                                          -->
 <!-- ══════════════════════════════════════════════════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0221,30:2d0060,60:4a0080,100:00d4ff&height=240&section=header&text=Deepika%20Boominathan&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20%E2%9C%A6%20AI%2FML%20Engineer%20%E2%9C%A6%20Gen%20AI%20Developer&descAlignY=62&descSize=18&stroke=a855f7&strokeWidth=2" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,50:2d0060,100:00d4ff&height=120&section=header&animation=twinkling" />
 
-<br/>
+<!-- STEP 1 — NAME types out letter by letter (large, white, slow) -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=52&duration=120&pause=6000&color=FFFFFF&center=true&vCenter=true&width=820&height=80&lines=Deepika+Boominathan" alt="Name" />
 
-<!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=800&color=00D4FF&center=true&vCenter=true&width=820&lines=🤖+Building+RAG+Systems+%26+LLM+Pipelines;⚡+LangChain+·+FAISS+·+OpenAI+·+HuggingFace;🌐+Next.js+·+FastAPI+·+TypeScript+·+Python;🚀+Turning+Ideas+Into+Intelligent+Products;🧠+Founder+%40+XYORA+·+AI+Startup;💼+Immediate+Joiner+·+Open+to+Work" alt="Typing SVG" />
+<!-- STEP 2 — ROLE reveals word by word with cursor (cyan, medium) -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=300&pause=4000&color=00D4FF&center=true&vCenter=true&width=820&height=50&lines=Full+Stack+%E2%9C%A6+AI%2FML+Engineer+%E2%9C%A6+Gen+AI+Developer" alt="Role" />
+
+<!-- STEP 3 — TAGLINE cycles through specialisations (violet, smaller) -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2400&pause=900&color=A855F7&center=true&vCenter=true&width=820&height=40&lines=🤖+RAG+Systems+%26+LLM+Pipelines;⚡+LangChain+·+FAISS+·+OpenAI+·+HuggingFace;🌐+Next.js+·+FastAPI+·+TypeScript+·+Python;🚀+Turning+Ideas+Into+Intelligent+Products;🧠+Founder+%40+XYORA+·+AI+Startup;💼+Immediate+Joiner+·+Open+to+Work" alt="Tagline" />
 
 <br/><br/>
 

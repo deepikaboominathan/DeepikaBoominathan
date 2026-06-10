@@ -1,19 +1,17 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--  SECTION 1 — HERO BANNER  (animate: fadeIn + twinkling)   -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
+<!-- ══════════════════════════════════════════════════════════ -->
+<!--  HERO BANNER                                              -->
+<!-- ══════════════════════════════════════════════════════════ -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0221,30:2d0060,60:4a0080,100:00d4ff&height=240&section=header&text=Deepika%20Boominathan&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20%E2%9C%A6%20AI%2FML%20Engineer%20%E2%9C%A6%20Gen%20AI%20Developer&descAlignY=62&descSize=18&stroke=a855f7&strokeWidth=2" />
 
 <br/>
 
-<!-- TYPING ANIMATION — cycles through roles -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=2600&pause=800&color=00D4FF&center=true&vCenter=true&width=820&lines=🤖+Building+RAG+Systems+%26+LLM+Pipelines;⚡+LangChain+·+FAISS+·+OpenAI+·+HuggingFace;🌐+Next.js+·+FastAPI+·+TypeScript+·+Python;🚀+Turning+Ideas+Into+Intelligent+Products;🧠+Founder+%40+XYORA+·+AI+Startup;💼+Immediate+Joiner+·+Open+to+Work" alt="Typing SVG" />
+<!-- TYPING ANIMATION -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=800&color=00D4FF&center=true&vCenter=true&width=820&lines=🤖+Building+RAG+Systems+%26+LLM+Pipelines;⚡+LangChain+·+FAISS+·+OpenAI+·+HuggingFace;🌐+Next.js+·+FastAPI+·+TypeScript+·+Python;🚀+Turning+Ideas+Into+Intelligent+Products;🧠+Founder+%40+XYORA+·+AI+Startup;💼+Immediate+Joiner+·+Open+to+Work" alt="Typing SVG" />
 
 <br/><br/>
 
-<!-- SOCIAL BADGES -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepika-boominathan-902a33295/)
 [![Email](https://img.shields.io/badge/Gmail-deepikaboominathan81-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deepikaboominathan81@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/deepikaboominathan)
@@ -29,20 +27,10 @@
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--  ANIMATED DIVIDER 1  (wave scroll-in feel)                 -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:0d0221,100:4a0080&height=3&section=header&reversal=false" />
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--  SECTION 2 — ABOUT ME  (animate: blinking section header)  -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=20&duration=1&pause=99999&color=A855F7&center=true&vCenter=true&width=400&lines=🧬+WHO+AM+I" alt="Section Header" />
-</div>
+<!-- ══════════════════════════════════════════════════════════ -->
+<!--  SECTION 1 — WHO AM I                                     -->
+<!-- ══════════════════════════════════════════════════════════ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0221,50:4a0080,100:0d0221&height=60&text=🧬%20WHO%20AM%20I&fontSize=22&fontColor=00d4ff&animation=fadeIn&fontAlign=50&fontAlignY=55" />
 
 ```python
 class DeepikaBoominathan:
@@ -75,24 +63,14 @@ class DeepikaBoominathan:
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--  ANIMATED DIVIDER 2  (egg style — new colour)              -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:4a0080,100:00d4ff&height=3&section=header" />
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--  SECTION 3 — TECH STACK  (animated section title)          -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════════ -->
+<!--  SECTION 2 — TECH ARSENAL                                 -->
+<!-- ══════════════════════════════════════════════════════════ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0221,50:00d4ff20,100:0d0221&height=60&text=🛠️%20TECH%20ARSENAL&fontSize=22&fontColor=a855f7&animation=fadeIn&fontAlign=50&fontAlignY=55" />
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=20&duration=1&pause=99999&color=00D4FF&center=true&vCenter=true&width=400&lines=🛠️+TECH+ARSENAL" alt="Section Header" />
-
-<br/>
-
-**🧠 &nbsp;AI · Gen AI · ML**
+**🧠 &nbsp; AI · Gen AI · ML**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=00D4FF)
@@ -102,7 +80,7 @@ class DeepikaBoominathan:
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 
-**🌐 &nbsp;Full Stack**
+**🌐 &nbsp; Full Stack**
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -112,7 +90,7 @@ class DeepikaBoominathan:
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
-**☁️ &nbsp;Cloud · DevOps · Automation**
+**☁️ &nbsp; Cloud · DevOps · Automation**
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
@@ -120,7 +98,7 @@ class DeepikaBoominathan:
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
-**🗄️ &nbsp;Databases & Tools**
+**🗄️ &nbsp; Databases & Tools**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -133,20 +111,12 @@ class DeepikaBoominathan:
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--  ANIMATED DIVIDER 3                                        -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00d4ff,100:a855f7&height=3&section=header" />
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--  SECTION 4 — PROJECTS  (animated section title)            -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════════ -->
+<!--  SECTION 3 — FEATURED PROJECTS                            -->
+<!-- ══════════════════════════════════════════════════════════ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0221,50:a855f720,100:0d0221&height=60&text=🚀%20FEATURED%20PROJECTS&fontSize=22&fontColor=00d4ff&animation=fadeIn&fontAlign=50&fontAlignY=55" />
 
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=20&duration=1&pause=99999&color=A855F7&center=true&vCenter=true&width=420&lines=🚀+FEATURED+PROJECTS" alt="Section Header" />
 
 | ⚡ Project | 🛠️ Stack | 💡 Highlights |
 |:---|:---|:---|
@@ -161,20 +131,10 @@ class DeepikaBoominathan:
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--  ANIMATED DIVIDER 4                                        -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:a855f7,100:0d0221&height=3&section=header" />
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--  SECTION 5 — EXPERIENCE  (animated section title)          -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=20&duration=1&pause=99999&color=00D4FF&center=true&vCenter=true&width=400&lines=💼+EXPERIENCE" alt="Section Header" />
-</div>
+<!-- ══════════════════════════════════════════════════════════ -->
+<!--  SECTION 4 — EXPERIENCE                                   -->
+<!-- ══════════════════════════════════════════════════════════ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0221,50:4a0080,100:0d0221&height=60&text=💼%20EXPERIENCE&fontSize=22&fontColor=a855f7&animation=fadeIn&fontAlign=50&fontAlignY=55" />
 
 ```
 ╔══════════════════════════════════════════════════════════════════════╗
@@ -209,22 +169,12 @@ class DeepikaBoominathan:
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--  ANIMATED DIVIDER 5                                        -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0221,100:00d4ff&height=3&section=header" />
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--  SECTION 6 — GITHUB STATS  (animated section title)        -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════════ -->
+<!--  SECTION 5 — GITHUB STATS                                 -->
+<!-- ══════════════════════════════════════════════════════════ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0221,50:00d4ff20,100:0d0221&height=60&text=📊%20GITHUB%20STATS&fontSize=22&fontColor=00d4ff&animation=fadeIn&fontAlign=50&fontAlignY=55" />
 
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=20&duration=1&pause=99999&color=A855F7&center=true&vCenter=true&width=420&lines=📊+GITHUB+STATS" alt="Section Header" />
-
-<br/>
 
 <img height="185em" src="https://github-readme-stats.vercel.app/api?username=deepikaboominathan&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d0221&title_color=00d4ff&icon_color=a855f7&text_color=e2e8f0&border_radius=12&ring_color=a855f7" />
 <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepikaboominathan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0221&title_color=00d4ff&text_color=e2e8f0&langs_count=8&border_radius=12" />
@@ -237,22 +187,12 @@ class DeepikaBoominathan:
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--  ANIMATED DIVIDER 6                                        -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:a855f7,100:00d4ff&height=3&section=header" />
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--  SECTION 7 — ACTIVITY GRAPH  (animated section title)      -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════════ -->
+<!--  SECTION 6 — CONTRIBUTION GRAPH                           -->
+<!-- ══════════════════════════════════════════════════════════ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0221,50:a855f720,100:0d0221&height=60&text=📈%20CONTRIBUTION%20GRAPH&fontSize=22&fontColor=a855f7&animation=fadeIn&fontAlign=50&fontAlignY=55" />
 
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=20&duration=1&pause=99999&color=00D4FF&center=true&vCenter=true&width=480&lines=📈+CONTRIBUTION+GRAPH" alt="Section Header" />
-
-<br/>
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=deepikaboominathan&theme=tokyo-night&bg_color=0d0221&color=00d4ff&line=a855f7&point=00d4ff&area=true&hide_border=true&area_color=a855f710)](https://github.com/deepikaboominathan)
 
@@ -260,22 +200,12 @@ class DeepikaBoominathan:
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--  ANIMATED DIVIDER 7                                        -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00d4ff,100:4a0080&height=3&section=header" />
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--  SECTION 8 — TROPHIES  (animated section title)            -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════════ -->
+<!--  SECTION 7 — TROPHY WALL                                  -->
+<!-- ══════════════════════════════════════════════════════════ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0221,50:4a0080,100:0d0221&height=60&text=🏆%20TROPHY%20WALL&fontSize=22&fontColor=00d4ff&animation=fadeIn&fontAlign=50&fontAlignY=55" />
 
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=20&duration=1&pause=99999&color=A855F7&center=true&vCenter=true&width=420&lines=🏆+TROPHY+WALL" alt="Section Header" />
-
-<br/>
 
 [![Trophies](https://github-profile-trophy.vercel.app/?username=deepikaboominathan&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=6)](https://github.com/deepikaboominathan)
 
@@ -283,22 +213,12 @@ class DeepikaBoominathan:
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--  ANIMATED DIVIDER 8                                        -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:4a0080,100:a855f7&height=3&section=header" />
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--  SECTION 9 — SNAKE  (animated section title)               -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════════ -->
+<!--  SECTION 8 — CONTRIBUTION SNAKE                           -->
+<!-- ══════════════════════════════════════════════════════════ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0221,50:00d4ff20,100:0d0221&height=60&text=🐍%20CONTRIBUTION%20SNAKE&fontSize=22&fontColor=a855f7&animation=fadeIn&fontAlign=50&fontAlignY=55" />
 
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=20&duration=1&pause=99999&color=00D4FF&center=true&vCenter=true&width=480&lines=🐍+CONTRIBUTION+SNAKE" alt="Section Header" />
-
-<br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/deepikaboominathan/deepikaboominathan/output/github-contribution-grid-snake-dark.svg" />
@@ -339,20 +259,10 @@ jobs:
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--  ANIMATED DIVIDER 9                                        -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:a855f7,100:00d4ff&height=3&section=header" />
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--  SECTION 10 — LEVELING UP  (animated section title)        -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=20&duration=1&pause=99999&color=A855F7&center=true&vCenter=true&width=480&lines=🔭+CURRENTLY+LEVELING+UP" alt="Section Header" />
-</div>
+<!-- ══════════════════════════════════════════════════════════ -->
+<!--  SECTION 9 — CURRENTLY LEVELING UP                        -->
+<!-- ══════════════════════════════════════════════════════════ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0221,50:a855f720,100:0d0221&height=60&text=🔭%20CURRENTLY%20LEVELING%20UP&fontSize=22&fontColor=00d4ff&animation=fadeIn&fontAlign=50&fontAlignY=55" />
 
 ```
 🤖 LangChain Agents & Tool Calling   ████████████░░░░  75%
@@ -365,20 +275,12 @@ jobs:
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--  ANIMATED DIVIDER 10                                       -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00d4ff,100:0d0221&height=3&section=header" />
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--  SECTION 11 — EDUCATION  (animated section title)          -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════════ -->
+<!--  SECTION 10 — EDUCATION & CERTIFICATIONS                  -->
+<!-- ══════════════════════════════════════════════════════════ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0221,50:4a0080,100:0d0221&height=60&text=🎓%20EDUCATION%20%26%20CERTIFICATIONS&fontSize=22&fontColor=a855f7&animation=fadeIn&fontAlign=50&fontAlignY=55" />
 
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=20&duration=1&pause=99999&color=00D4FF&center=true&vCenter=true&width=500&lines=🎓+EDUCATION+%26+CERTIFICATIONS" alt="Section Header" />
 
 | 🎖️ | Credential | Issuer | Year |
 |:---:|:---|:---|:---:|
@@ -390,20 +292,12 @@ jobs:
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--  ANIMATED DIVIDER 11                                       -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:4a0080,100:00d4ff&height=3&section=header" />
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--  SECTION 12 — CONNECT  (animated section title)            -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════════ -->
+<!--  SECTION 11 — LET'S CONNECT                               -->
+<!-- ══════════════════════════════════════════════════════════ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0221,50:00d4ff20,100:0d0221&height=60&text=📫%20LET%27S%20CONNECT&fontSize=22&fontColor=00d4ff&animation=fadeIn&fontAlign=50&fontAlignY=55" />
 
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=20&duration=1&pause=99999&color=A855F7&center=true&vCenter=true&width=400&lines=📫+LET%27S+CONNECT" alt="Section Header" />
 
 <br/>
 
@@ -427,18 +321,15 @@ jobs:
 
 <br/>
 
-<!-- ANIMATED CLOSING TYPING -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3500&pause=1200&color=A855F7&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+my+profile+👋;Let's+build+something+intelligent+together+🚀;Always+open+to+exciting+opportunities+✨" alt="Closing Typing" />
 
 </div>
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--  FOOTER WAVE  (twinkling animation)                        -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- FOOTER WAVE -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,40:4a0080,100:00d4ff&height=130&section=footer&animation=twinkling" />
 
 <div align="center">
-  <sub>⚡ Crafted with obsession by <strong>Deepika Boominathan</strong> &nbsp;·&nbsp; Updated regularly &nbsp;·&nbsp; Star ⭐ if you like it!</sub>
+  <sub>⚡ Crafted with obsession by <strong>Deepika Boominathan</strong> &nbsp;·&nbsp; Star ⭐ if you like it!</sub>
 </div>

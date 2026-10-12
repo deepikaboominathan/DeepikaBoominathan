@@ -1,339 +1,203 @@
-<div align="center">
+﻿<div align="center">
 
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--  HERO — TOP WAVE                                          -->
-<!-- ══════════════════════════════════════════════════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,50:2d0060,100:00d4ff&height=120&section=header&animation=twinkling" />
+<!-- â•â•â•â•â•â•â•â•â• HERO â•â•â•â•â•â•â•â•â• -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,50:4a0080,100:00d4ff&height=120&section=header&animation=twinkling" alt="" />
 
-<!-- STEP 1 — NAME types out letter by letter (large, white, slow) -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=52&duration=120&pause=6000&color=FFFFFF&center=true&vCenter=true&width=820&height=80&lines=Deepika+Boominathan" alt="Name" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=150&pause=5000&color=FFFFFF&center=true&vCenter=true&width=700&height=70&lines=Deepika+Boominathan" alt="Deepika Boominathan" />
 
-<!-- STEP 2 — ROLE reveals word by word with cursor (cyan, medium) -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=300&pause=4000&color=00D4FF&center=true&vCenter=true&width=820&height=50&lines=Full+Stack+%E2%9C%A6+AI%2FML+Engineer+%E2%9C%A6+Gen+AI+Developer" alt="Role" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1500&color=00D4FF&center=true&vCenter=true&width=700&height=40&lines=AI%2FML+Developer;Generative+AI+Developer;Full-Stack+Developer;RAG+%26+LLM+Application+Developer" alt="AI/ML Developer Â· Generative AI Developer Â· Full-Stack Developer Â· RAG and LLM Application Developer" />
 
-<!-- STEP 3 — TAGLINE cycles through specialisations (violet, smaller) -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2400&pause=900&color=A855F7&center=true&vCenter=true&width=820&height=40&lines=🤖+RAG+Systems+%26+LLM+Pipelines;⚡+LangChain+·+FAISS+·+OpenAI+·+HuggingFace;🌐+Next.js+·+FastAPI+·+TypeScript+·+Python;🚀+Turning+Ideas+Into+Intelligent+Products;🧠+Founder+%40+XYORA+·+AI+Startup;💼+Immediate+Joiner+·+Open+to+Work" alt="Tagline" />
+<sub><i>Building intelligent applications â€” from retrieval pipelines to the interfaces people actually use.</i></sub>
 
 <br/><br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepika-boominathan-902a33295/)
-[![Email](https://img.shields.io/badge/Gmail-deepikaboominathan81-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deepikaboominathan81@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/deepikaboominathan)
-[![GitHub](https://img.shields.io/badge/GitHub-deepikaboominathan-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/deepikaboominathan)
+<!-- Neural network illustration (assets/neural-banner.svg) -->
+<img src="./assets/neural-banner.svg" width="100%" alt="Animated neural network illustration with signals flowing between nodes" />
 
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=deepikaboominathan&color=00d4ff&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/deepikaboominathan)
-[![Open to Work](https://img.shields.io/badge/STATUS-Open%20to%20Work-00C851?style=for-the-badge&logo=checkmarx&logoColor=white)]()
-[![Location](https://img.shields.io/badge/📍-Coimbatore%2C%20India-a855f7?style=for-the-badge)]()
+<a href="https://myself-portfolio-deepika.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-A855F7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/deepika-boominathan-902a33295/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://github.com/deepikaboominathan"><img src="https://img.shields.io/badge/GitHub-deepikaboominathan-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="mailto:deepikaboominathan81@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+
+<img src="https://komarev.com/ghpvc/?username=deepikaboominathan&color=00d4ff&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
+<img src="https://img.shields.io/badge/Location-Coimbatore%2C%20India-A855F7?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location: Coimbatore, India" />
+<img src="https://img.shields.io/badge/Interested%20in-AI%2FML%20%C2%B7%20GenAI%20%C2%B7%20Full--Stack-00D4FF?style=for-the-badge" alt="Interested in AI/ML, Generative AI and Full-Stack roles" />
 
 </div>
 
 <br/>
 
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--  SECTION 1 — WHO AM I                                     -->
-<!-- ══════════════════════════════════════════════════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0221,50:4a0080,100:0d0221&height=60&text=🧬%20WHO%20AM%20I&fontSize=22&fontColor=00d4ff&animation=fadeIn&fontAlign=50&fontAlignY=55" />
+<!-- â•â•â•â•â•â•â•â•â• ABOUT â•â•â•â•â•â•â•â•â• -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0221,50:4a0080,100:0d0221&height=60&text=ABOUT%20ME&fontSize=22&fontColor=00d4ff&animation=fadeIn&fontAlign=50&fontAlignY=55" alt="About me" />
+
+I'm a developer based in Coimbatore, India, who enjoys turning messy, repetitive problems into working software. I build **AI-powered automation workflows**, **RAG-based knowledge assistants**, and **full-stack web applications**, mostly with Python, FastAPI, LangChain, Next.js, and TypeScript.
+
+I care about practical results: pipelines that retrieve the right context, APIs that stay simple, and interfaces that make the AI useful. I learn by building, and I'm continuing to deepen my skills in agents, retrieval quality, and deployment.
 
 ```python
-class DeepikaBoominathan:
-
-    title    = "Full Stack + AI/ML Engineer  |  Gen AI Developer"
-    location = "Coimbatore, Tamil Nadu, India 🇮🇳"
-    email    = "deepikaboominathan81@gmail.com"
-    status   = "✅ Immediate Joiner — Open to Full-Time Roles"
-    startup  = "🚀 Founder @ XYORA — AI Product Company"
-
-    expertise = {
-        "Gen AI"      : ["RAG Systems", "LLM Integration", "Prompt Engineering", "Agents"],
-        "ML / NLP"    : ["LangChain", "FAISS", "HuggingFace", "Scikit-learn", "Embeddings"],
-        "Backend"     : ["Python", "FastAPI", "Flask", "REST APIs"],
-        "Frontend"    : ["Next.js", "React.js", "TypeScript", "TailwindCSS"],
-        "Cloud/DevOps": ["AWS", "GCP", "Docker", "CI/CD", "n8n Automation"],
-        "Databases"   : ["PostgreSQL", "MySQL", "MongoDB", "FAISS Vector DB"],
-    }
-
-    currently_building = [
-        "🧠 Multi-agent LangChain systems with tool calling & memory",
-        "⚡ Advanced RAG: HyDE + re-ranking + multi-vector retrieval",
-        "🐳 MLOps pipelines — Docker, model versioning, auto-retraining",
-        "🌐 AI-first full-stack products @ XYORA",
-    ]
-
-    def mission(self):
-        return "Build systems that think. Deploy solutions that scale. 🚀"
+developer = {
+    "focus":   ["Generative AI", "RAG & LLM apps", "Full-stack products"],
+    "mission": "Build systems that think. Ship software that helps.",
+}
 ```
 
 <br/>
 
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--  SECTION 2 — TECH ARSENAL                                 -->
-<!-- ══════════════════════════════════════════════════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0221,50:00d4ff20,100:0d0221&height=60&text=🛠️%20TECH%20ARSENAL&fontSize=22&fontColor=a855f7&animation=fadeIn&fontAlign=50&fontAlignY=55" />
+<!-- â•â•â•â•â•â•â•â•â• TECH STACK â•â•â•â•â•â•â•â•â• -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0221,50:00d4ff20,100:0d0221&height=60&text=TECH%20STACK&fontSize=22&fontColor=a855f7&animation=fadeIn&fontAlign=50&fontAlignY=55" alt="Tech stack" />
 
 <div align="center">
 
-**🧠 &nbsp; AI · Gen AI · ML**
+**AI, Machine Learning & Generative AI**<br/>
+![Python](https://img.shields.io/badge/Python-0D0221?style=flat-square&logo=python&logoColor=00D4FF)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-0D0221?style=flat-square&logo=scikitlearn&logoColor=00D4FF)
+![Pandas](https://img.shields.io/badge/Pandas-0D0221?style=flat-square&logo=pandas&logoColor=00D4FF)
+![XGBoost](https://img.shields.io/badge/XGBoost-0D0221?style=flat-square&logoColor=00D4FF)
+![OpenAI API](https://img.shields.io/badge/OpenAI%20API-0D0221?style=flat-square&logo=openai&logoColor=00D4FF)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-0D0221?style=flat-square&logo=huggingface&logoColor=00D4FF)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=00D4FF)
-![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![FAISS](https://img.shields.io/badge/FAISS_VectorDB-0064A5?style=flat-square&logo=meta&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+**LLMs, RAG & Vector Search**<br/>
+![LangChain](https://img.shields.io/badge/LangChain-0D0221?style=flat-square&logo=langchain&logoColor=A855F7)
+![FAISS](https://img.shields.io/badge/FAISS-0D0221?style=flat-square&logo=meta&logoColor=A855F7)
+![Ollama](https://img.shields.io/badge/Ollama-0D0221?style=flat-square&logo=ollama&logoColor=A855F7)
+![Embeddings](https://img.shields.io/badge/Embeddings-0D0221?style=flat-square&logoColor=A855F7)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-0D0221?style=flat-square&logoColor=A855F7)
 
-**🌐 &nbsp; Full Stack**
+**Backend Development & APIs**<br/>
+![FastAPI](https://img.shields.io/badge/FastAPI-0D0221?style=flat-square&logo=fastapi&logoColor=00D4FF)
+![Flask](https://img.shields.io/badge/Flask-0D0221?style=flat-square&logo=flask&logoColor=00D4FF)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-0D0221?style=flat-square&logoColor=00D4FF)
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+**Frontend Development**<br/>
+![Next.js](https://img.shields.io/badge/Next.js-0D0221?style=flat-square&logo=nextdotjs&logoColor=A855F7)
+![React](https://img.shields.io/badge/React-0D0221?style=flat-square&logo=react&logoColor=A855F7)
+![TypeScript](https://img.shields.io/badge/TypeScript-0D0221?style=flat-square&logo=typescript&logoColor=A855F7)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D0221?style=flat-square&logo=javascript&logoColor=A855F7)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-0D0221?style=flat-square&logo=tailwindcss&logoColor=A855F7)
+![Streamlit](https://img.shields.io/badge/Streamlit-0D0221?style=flat-square&logo=streamlit&logoColor=A855F7)
 
-**☁️ &nbsp; Cloud · DevOps · Automation**
+**Databases**<br/>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D0221?style=flat-square&logo=postgresql&logoColor=00D4FF)
+![MySQL](https://img.shields.io/badge/MySQL-0D0221?style=flat-square&logo=mysql&logoColor=00D4FF)
+![MongoDB](https://img.shields.io/badge/MongoDB-0D0221?style=flat-square&logo=mongodb&logoColor=00D4FF)
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+**Automation, Cloud & DevOps**<br/>
+![n8n](https://img.shields.io/badge/n8n-0D0221?style=flat-square&logo=n8n&logoColor=A855F7)
+![Docker](https://img.shields.io/badge/Docker-0D0221?style=flat-square&logo=docker&logoColor=A855F7)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-0D0221?style=flat-square&logo=githubactions&logoColor=A855F7)
+![AWS](https://img.shields.io/badge/AWS-learning-0D0221?style=flat-square&logo=amazonwebservices&logoColor=A855F7)
+![GCP](https://img.shields.io/badge/GCP-learning-0D0221?style=flat-square&logo=googlecloud&logoColor=A855F7)
 
-**🗄️ &nbsp; Databases & Tools**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+**Analytics & Developer Tools**<br/>
+![Power BI](https://img.shields.io/badge/Power%20BI-0D0221?style=flat-square&logo=powerbi&logoColor=00D4FF)
+![Jupyter](https://img.shields.io/badge/Jupyter-0D0221?style=flat-square&logo=jupyter&logoColor=00D4FF)
+![Git](https://img.shields.io/badge/Git-0D0221?style=flat-square&logo=git&logoColor=00D4FF)
+![GitHub](https://img.shields.io/badge/GitHub-0D0221?style=flat-square&logo=github&logoColor=00D4FF)
 
 </div>
 
 <br/>
 
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--  SECTION 3 — FEATURED PROJECTS                            -->
-<!-- ══════════════════════════════════════════════════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0221,50:a855f720,100:0d0221&height=60&text=🚀%20FEATURED%20PROJECTS&fontSize=22&fontColor=00d4ff&animation=fadeIn&fontAlign=50&fontAlignY=55" />
+<!-- â•â•â•â•â•â•â•â•â• PROJECTS â•â•â•â•â•â•â•â•â• -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0221,50:a855f720,100:0d0221&height=60&text=FEATURED%20PROJECTS&fontSize=22&fontColor=00d4ff&animation=fadeIn&fontAlign=50&fontAlignY=55" alt="Featured projects" />
 
-<div align="center">
+<!--
+  EDITING TIPS
+  - Each project is one blockquote "card" so it stays readable on mobile.
+  - Add a repository link only when you have a verified URL. Copy the pattern from the n8n card.
+-->
 
-| ⚡ Project | 🛠️ Stack | 💡 Highlights |
-|:---|:---|:---|
-| 🤖 **AI Social Media Automation** | Next.js · TypeScript · FastAPI · OpenAI | Auto-generate & schedule posts across LinkedIn, Instagram, X |
-| 🧠 **RAG-Based Knowledge Chatbot** | Python · LangChain · FAISS · HuggingFace · Ollama | Semantic doc Q&A with vector indexing & context-aware LLM responses |
-| 🎬 **Movie Recommendation System** | Python · Scikit-learn · Pandas · Streamlit | Content-based filtering with cosine similarity; real-time interactive UI |
-| 📧 **Email Automation CRM** | Python · n8n · REST APIs | Smart email sequencing for untouched + follow-up leads |
-| 🏏 **IPL Match Prediction App** | Flask · Python · ML · Pickle | Live IPL outcome predictor via deployed Flask REST API |
-| 🛒 **Web Scraping + Product Analysis** | Selenium · BeautifulSoup · XGBoost · SQL | Flipkart scraper → ML segmentation with **99% accuracy** |
+> ### ðŸ¤– AI Social Media Automation
+> Helps create and manage social media content without repeating the same manual steps.
+>
+> ![Next.js](https://img.shields.io/badge/Next.js-0D0221?style=flat-square&logo=nextdotjs&logoColor=A855F7) ![TypeScript](https://img.shields.io/badge/TypeScript-0D0221?style=flat-square&logo=typescript&logoColor=A855F7) ![FastAPI](https://img.shields.io/badge/FastAPI-0D0221?style=flat-square&logo=fastapi&logoColor=A855F7) ![OpenAI](https://img.shields.io/badge/OpenAI-0D0221?style=flat-square&logo=openai&logoColor=A855F7)
 
-</div>
+> ### ðŸ§  RAG-Based Knowledge Chatbot
+> Answers questions from your own documents by retrieving relevant passages and passing them to a language model.
+>
+> ![Python](https://img.shields.io/badge/Python-0D0221?style=flat-square&logo=python&logoColor=00D4FF) ![LangChain](https://img.shields.io/badge/LangChain-0D0221?style=flat-square&logo=langchain&logoColor=00D4FF) ![FAISS](https://img.shields.io/badge/FAISS-0D0221?style=flat-square&logo=meta&logoColor=00D4FF) ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-0D0221?style=flat-square&logo=huggingface&logoColor=00D4FF) ![Ollama](https://img.shields.io/badge/Ollama-0D0221?style=flat-square&logo=ollama&logoColor=00D4FF)
 
-<br/>
+> ### ðŸŽ¬ Movie Recommendation System
+> Suggests similar movies using content-based filtering, so viewers find what to watch next.
+>
+> ![Python](https://img.shields.io/badge/Python-0D0221?style=flat-square&logo=python&logoColor=A855F7) ![Scikit-learn](https://img.shields.io/badge/scikit--learn-0D0221?style=flat-square&logo=scikitlearn&logoColor=A855F7) ![Pandas](https://img.shields.io/badge/Pandas-0D0221?style=flat-square&logo=pandas&logoColor=A855F7) ![Streamlit](https://img.shields.io/badge/Streamlit-0D0221?style=flat-square&logo=streamlit&logoColor=A855F7)
 
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--  SECTION 4 — EXPERIENCE                                   -->
-<!-- ══════════════════════════════════════════════════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0221,50:4a0080,100:0d0221&height=60&text=💼%20EXPERIENCE&fontSize=22&fontColor=a855f7&animation=fadeIn&fontAlign=50&fontAlignY=55" />
+> ### ðŸ“§ Email Automation with n8n
+> Automates email sequences and follow-ups for CRM-style lead management.
+>
+> ![n8n](https://img.shields.io/badge/n8n-0D0221?style=flat-square&logo=n8n&logoColor=00D4FF) ![Python](https://img.shields.io/badge/Python-0D0221?style=flat-square&logo=python&logoColor=00D4FF) ![REST APIs](https://img.shields.io/badge/REST%20APIs-0D0221?style=flat-square&logoColor=00D4FF)
+>
+> [**View repository â†’**](https://github.com/deepikaboominathan/Email-automation-n8n)
 
-```
-╔══════════════════════════════════════════════════════════════════════╗
-║  🏢  XYLOINC Technologies Pvt Ltd                                    ║
-║  Role   ➜  AI/ML & Full Stack Engineer                               ║
-║  Period ➜  Nov 2025 – Present                                        ║
-╠══════════════════════════════════════════════════════════════════════╣
-║  ▸ Built AI Social Media Automation Platform — solo, production-ready║
-║  ▸ Designed RAG-Based Knowledge Chatbot with FAISS + LangChain       ║
-║  ▸ n8n automation workflows for LinkedIn & email CRM pipelines       ║
-║  ▸ Full-stack: Next.js + TypeScript frontend · FastAPI backend        ║
-╚══════════════════════════════════════════════════════════════════════╝
+> ### ðŸ IPL Match Prediction
+> Uses machine learning on historical match data to estimate IPL match outcomes.
+>
+> ![Python](https://img.shields.io/badge/Python-0D0221?style=flat-square&logo=python&logoColor=A855F7) ![Flask](https://img.shields.io/badge/Flask-0D0221?style=flat-square&logo=flask&logoColor=A855F7) ![Scikit-learn](https://img.shields.io/badge/scikit--learn-0D0221?style=flat-square&logo=scikitlearn&logoColor=A855F7)
 
-╔══════════════════════════════════════════════════════════════════════╗
-║  🔬  KGiSL MicroCollege                                              ║
-║  Role   ➜  Data Analytics & Data Science Intern                      ║
-║  Period ➜  Aug 2025 – Nov 2025                                       ║
-╠══════════════════════════════════════════════════════════════════════╣
-║  ▸ End-to-end ML workflows: preprocessing → training → evaluation    ║
-║  ▸ Built dashboards using Python & Power BI                          ║
-║  ▸ Local LLM prompt engineering with Ollama                          ║
-╚══════════════════════════════════════════════════════════════════════╝
-
-╔══════════════════════════════════════════════════════════════════════╗
-║  🚀  XYORA                                                           ║
-║  Role   ➜  Founder                                                   ║
-║  Period ➜  Present                                                   ║
-╠══════════════════════════════════════════════════════════════════════╣
-║  ▸ Building AI-first products and intelligent automation tools       ║
-╚══════════════════════════════════════════════════════════════════════╝
-```
+> ### ðŸŽ§ Spotify Power BI Dashboard
+> Turns music data into an interactive dashboard for exploring listening trends.
+>
+> ![Power BI](https://img.shields.io/badge/Power%20BI-0D0221?style=flat-square&logo=powerbi&logoColor=00D4FF)
+>
+> [**View repository â†’**](https://github.com/deepikaboominathan/Spotify_PowerBI_dashboard)
 
 <br/>
 
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--  SECTION 5 — GITHUB STATS                                 -->
-<!-- ══════════════════════════════════════════════════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0221,50:00d4ff20,100:0d0221&height=60&text=📊%20GITHUB%20STATS&fontSize=22&fontColor=00d4ff&animation=fadeIn&fontAlign=50&fontAlignY=55" />
+<!-- â•â•â•â•â•â•â•â•â• EXPERIENCE & EDUCATION â•â•â•â•â•â•â•â•â• -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0221,50:4a0080,100:0d0221&height=60&text=EXPERIENCE%20%26%20EDUCATION&fontSize=22&fontColor=a855f7&animation=fadeIn&fontAlign=50&fontAlignY=55" alt="Experience and education" />
 
-<div align="center">
+**XYLOINC Technologies Pvt Ltd** â€” AI/ML & Full-Stack Development *(internship, approx. six months)*
 
-<img height="185em" src="https://github-readme-stats.vercel.app/api?username=deepikaboominathan&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d0221&title_color=00d4ff&icon_color=a855f7&text_color=e2e8f0&border_radius=12&ring_color=a855f7" />
-<img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepikaboominathan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0221&title_color=00d4ff&text_color=e2e8f0&langs_count=8&border_radius=12" />
+- Worked on automation workflows, chatbot integrations, APIs, and web applications.
+- Contributed across AI/ML tasks and full-stack development.
 
-<br/><br/>
+**B.Sc. Computer Science** â€” KG College of Arts and Science Â· CGPA 8.3 / 10
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=deepikaboominathan&theme=tokyonight-duo&hide_border=true&background=0D0221&ring=00D4FF&fire=A855F7&currStreakLabel=00D4FF&sideLabels=A855F7&dates=94A3B8&currStreakNum=E2E8F0&sideNums=E2E8F0&stroke=0D0221&border_radius=12)](https://git.io/streak-stats)
+**Certifications** â€” Completed Data Analytics and Data Science certifications.
 
-</div>
+<!-- Add issuer, exact certificate titles, IDs and dates here only once verified. -->
 
 <br/>
 
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--  SECTION 6 — CONTRIBUTION GRAPH                           -->
-<!-- ══════════════════════════════════════════════════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0221,50:a855f720,100:0d0221&height=60&text=📈%20CONTRIBUTION%20GRAPH&fontSize=22&fontColor=a855f7&animation=fadeIn&fontAlign=50&fontAlignY=55" />
+<!-- â•â•â•â•â•â•â•â•â• GITHUB STATS â•â•â•â•â•â•â•â•â• -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0221,50:00d4ff20,100:0d0221&height=60&text=GITHUB%20ACTIVITY&fontSize=22&fontColor=00d4ff&animation=fadeIn&fontAlign=50&fontAlignY=55" alt="GitHub activity" />
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=deepikaboominathan&theme=tokyo-night&bg_color=0d0221&color=00d4ff&line=a855f7&point=00d4ff&area=true&hide_border=true&area_color=a855f710)](https://github.com/deepikaboominathan)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=deepikaboominathan&show_icons=true&hide_border=true&bg_color=0d0221&title_color=00d4ff&icon_color=a855f7&text_color=e2e8f0&ring_color=a855f7&border_radius=12" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepikaboominathan&layout=compact&hide_border=true&bg_color=0d0221&title_color=00d4ff&text_color=e2e8f0&langs_count=6&border_radius=12" alt="Top languages" />
 
-</div>
+<img src="https://streak-stats.demolab.com?user=deepikaboominathan&hide_border=true&background=0D0221&ring=A855F7&fire=00D4FF&currStreakLabel=00D4FF&sideLabels=A855F7&currStreakNum=E2E8F0&sideNums=E2E8F0&dates=94A3B8&stroke=0D0221&border_radius=12" alt="GitHub streak" />
 
-<br/>
-
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--  SECTION 7 — TROPHY WALL                                  -->
-<!-- ══════════════════════════════════════════════════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0221,50:4a0080,100:0d0221&height=60&text=🏆%20TROPHY%20WALL&fontSize=22&fontColor=00d4ff&animation=fadeIn&fontAlign=50&fontAlignY=55" />
-
-<div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=deepikaboominathan&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=6)](https://github.com/deepikaboominathan)
-
-</div>
-
-<br/>
-
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--  SECTION 8 — CONTRIBUTION SNAKE                           -->
-<!-- ══════════════════════════════════════════════════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0221,50:00d4ff20,100:0d0221&height=60&text=🐍%20CONTRIBUTION%20SNAKE&fontSize=22&fontColor=a855f7&animation=fadeIn&fontAlign=50&fontAlignY=55" />
-
-<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=deepikaboominathan&bg_color=0d0221&color=00d4ff&line=a855f7&point=ffffff&area=true&area_color=a855f7&hide_border=true" width="100%" alt="Contribution activity graph" />
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/deepikaboominathan/deepikaboominathan/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/deepikaboominathan/deepikaboominathan/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/deepikaboominathan/deepikaboominathan/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/deepikaboominathan/DeepikaBoominathan/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/deepikaboominathan/DeepikaBoominathan/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/deepikaboominathan/DeepikaBoominathan/output/github-contribution-grid-snake.svg" />
 </picture>
 
 </div>
 
-<details>
-<summary>⚙️ <strong>Enable Snake Animation — click to copy workflow</strong></summary>
-
-```yaml
-name: Generate Snake Animation
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-</details>
-
 <br/>
 
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--  SECTION 9 — CURRENTLY LEVELING UP                        -->
-<!-- ══════════════════════════════════════════════════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0221,50:a855f720,100:0d0221&height=60&text=🔭%20CURRENTLY%20LEVELING%20UP&fontSize=22&fontColor=00d4ff&animation=fadeIn&fontAlign=50&fontAlignY=55" />
-
-```
-🤖 LangChain Agents & Tool Calling   ████████████░░░░  75%
-⚡ Advanced RAG (HyDE + Re-ranking)  ██████████░░░░░░  62%
-🐳 MLOps · Docker · CI/CD Pipelines  ████████░░░░░░░░  50%
-☁️  AWS · GCP Production Deployment   ████████░░░░░░░░  52%
-🔗 n8n Complex Workflow Orchestration █████████████░░░  80%
-🌐 AI Full-Stack (TypeScript + APIs)  ██████████████░░  88%
-```
-
-<br/>
-
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--  SECTION 10 — EDUCATION & CERTIFICATIONS                  -->
-<!-- ══════════════════════════════════════════════════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0221,50:4a0080,100:0d0221&height=60&text=🎓%20EDUCATION%20%26%20CERTIFICATIONS&fontSize=22&fontColor=a855f7&animation=fadeIn&fontAlign=50&fontAlignY=55" />
+<!-- â•â•â•â•â•â•â•â•â• CONNECT â•â•â•â•â•â•â•â•â• -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0221,50:a855f720,100:0d0221&height=60&text=LET%27S%20CONNECT&fontSize=22&fontColor=a855f7&animation=fadeIn&fontAlign=50&fontAlignY=55" alt="Let's connect" />
 
 <div align="center">
 
-| 🎖️ | Credential | Issuer | Year |
-|:---:|:---|:---|:---:|
-| 🎓 | B.Sc. Computer Science — **CGPA 8.6 / 10** | KG College of Arts & Science, Bharathiar University | 2025 |
-| 📊 | Professional Certification — Data Analytics & Data Science | KGiSL MicroCollege | 2026 |
-| ☁️ | Google Cloud Career Practitioner | KG College of Arts & Science | 2025 |
+I'm interested in **AI/ML Developer**, **Generative AI Developer**, and **Full-Stack Developer** opportunities, especially work involving RAG, LLM applications, and automation.
+
+<a href="https://myself-portfolio-deepika.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-A855F7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/deepika-boominathan-902a33295/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://github.com/deepikaboominathan"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="mailto:deepikaboominathan81@gmail.com"><img src="https://img.shields.io/badge/Email-deepikaboominathan81%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3500&pause=2000&color=A855F7&center=true&vCenter=true&width=600&height=30&lines=Thanks+for+visiting.;Let%27s+build+something+useful+together." alt="Thanks for visiting. Let's build something useful together." />
 
 </div>
 
-<br/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,50:4a0080,100:00d4ff&height=110&section=footer&animation=twinkling" alt="" />
 
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--  SECTION 11 — LET'S CONNECT                               -->
-<!-- ══════════════════════════════════════════════════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0221,50:00d4ff20,100:0d0221&height=60&text=📫%20LET%27S%20CONNECT&fontSize=22&fontColor=00d4ff&animation=fadeIn&fontAlign=50&fontAlignY=55" />
-
-<div align="center">
-
-<br/>
-
-<a href="https://www.linkedin.com/in/deepika-boominathan-902a33295/">
-  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-&nbsp;
-<a href="mailto:deepikaboominathan81@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://github.com/deepikaboominathan">
-  <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-
-<br/><br/>
-
-> 💼 **Actively seeking** Full Stack AI · Gen AI Developer · AI/ML Engineer roles — MNCs & Startups across India
->
-> ⚡ **Immediate joiner** &nbsp;·&nbsp; Open to remote & hybrid &nbsp;·&nbsp; Available for interviews anytime
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3500&pause=1200&color=A855F7&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+my+profile+👋;Let's+build+something+intelligent+together+🚀;Always+open+to+exciting+opportunities+✨" alt="Closing Typing" />
-
-</div>
-
-<br/>
-
-<!-- FOOTER WAVE -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,40:4a0080,100:00d4ff&height=130&section=footer&animation=twinkling" />
-
-<div align="center">
-  <sub>⚡ Crafted with obsession by <strong>Deepika Boominathan</strong> &nbsp;·&nbsp; Star ⭐ if you like it!</sub>
-</div>
